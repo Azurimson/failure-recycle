@@ -1,2 +1,2 @@
 # failure-recycle
-a recycle including some failure
+some failure of expriments
